@@ -1,7 +1,7 @@
 ﻿namespace bankaccount;
 
 using Person;
-using Adress;
+using Address;
 
 public class Bankaccount
 {

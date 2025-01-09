@@ -1,9 +1,74 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {}
+    "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Address\\Adress.csproj": {}
   },
   "projects": {
+    "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Address\\Adress.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Address\\Adress.csproj",
+        "projectName": "Adress",
+        "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Address\\Adress.csproj",
+        "packagesPath": "C:\\Users\\rosca\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Address\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rosca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {
+                "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj"
+              },
+              "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj": {
+                "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {
       "version": "1.0.0",
       "restore": {

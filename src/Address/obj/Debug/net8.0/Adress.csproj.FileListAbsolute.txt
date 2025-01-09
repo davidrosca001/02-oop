@@ -1,0 +1,12 @@
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\bin\Debug\net8.0\Adress.deps.json
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\bin\Debug\net8.0\Adress.dll
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\bin\Debug\net8.0\Adress.pdb
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.AssemblyInfoInputs.cache
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.AssemblyInfo.cs
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.csproj.CoreCompileInputs.cache
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.sourcelink.json
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.dll
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\refint\Adress.dll
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\Adress.pdb
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\Address\obj\Debug\net8.0\ref\Adress.dll
