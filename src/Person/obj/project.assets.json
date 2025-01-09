@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\Person\\Person.csproj",
+      "projectUniqueName": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj",
       "projectName": "Person",
-      "projectPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\Person\\Person.csproj",
+      "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj",
       "packagesPath": "C:\\Users\\rosca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\Person\\obj\\",
+      "outputPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rosca\\AppData\\Roaming\\NuGet\\NuGet.Config"

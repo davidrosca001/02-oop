@@ -1,0 +1,6 @@
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\bank_account\obj\Debug\net8.0\bankaccount.csproj.AssemblyReference.cache
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\bank_account\obj\Debug\net8.0\bankaccount.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\bank_account\obj\Debug\net8.0\bankaccount.AssemblyInfoInputs.cache
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\bank_account\obj\Debug\net8.0\bankaccount.AssemblyInfo.cs
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\bank_account\obj\Debug\net8.0\bankaccount.csproj.CoreCompileInputs.cache
+c:\Users\rosca\Desktop\vsc\2. Klasse\02-oop\src\bank_account\obj\Debug\net8.0\bankaccount.sourcelink.json
