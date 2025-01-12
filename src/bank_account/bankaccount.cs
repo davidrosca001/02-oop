@@ -10,6 +10,8 @@ public class Bankaccount
  private int _bankBalance;
  private int _payOutsum;
  private int _payInsum;
+private Address _ownerAddress = new Address("Not entered", 0, 0, "Not entered");
+
 
    //Probertys
 
