@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {}
+    "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {
+    "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj",
+        "projectUniqueName": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj",
         "projectName": "bankaccount",
-        "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj",
+        "projectPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\bankaccount.csproj",
         "packagesPath": "C:\\Users\\rosca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\obj\\",
+        "outputPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\bank_account\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rosca\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj": {
-                "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj"
+              "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj": {
+                "projectPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj": {
+    "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj",
+        "projectUniqueName": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj",
         "projectName": "Person",
-        "projectPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj",
+        "projectPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\Person.csproj",
         "packagesPath": "C:\\Users\\rosca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\obj\\",
+        "outputPath": "C:\\Users\\rosca\\Desktop\\vsc\\2. Klasse\\02-oop\\src\\Person\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rosca\\AppData\\Roaming\\NuGet\\NuGet.Config"

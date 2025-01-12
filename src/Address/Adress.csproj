@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\bank_account\bankaccount.csproj" />
-    <ProjectReference Include="..\Person\Person.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
